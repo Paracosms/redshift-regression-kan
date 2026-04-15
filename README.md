@@ -19,7 +19,7 @@ Dataset 2 replicates **D'Abrusco et al. (2007)**, a dataset with a wider redshif
 | Dataset 2 Near: `σz` (RMSE) | 0.0197 | N/A |   0.0168 | 1.00E-04 |
 | Dataset 2 Far: `σz` (RMSE)  | 0.0245 | N/A |   0.0314 | 1.00E-04 |
 
-![Bar Chart of Results](https://https://imgur.com/a/zv9gDK8)
+![Bar Chart of Results](results.svg)
 
 Overall, KAN improves the Dataset 1 and Dataset 2 Near metrics, while performing worse than the benchmark MLP on Dataset 2 Far.
 
